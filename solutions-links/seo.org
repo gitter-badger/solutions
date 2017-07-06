@@ -1,40 +1,40 @@
 * WEBSEITEN TOOLS
 
 *** GOOGLE TOOLS
-- *Test My Site*				| https://testmysite.withgoogle.com/intl/en-gb
-- *Search Console*				| https://www.google.com/webmasters/tools
-- *Structured Data*				| https://search.google.com/structured-data/testing-tool
-- *Mobile Friendly*				| https://www.google.de/webmasters/tools/mobile-friendly
-- *Page Speed*					| https://developers.google.com/speed/pagespeed/insights
+- Test My Site				| https://testmysite.withgoogle.com/intl/en-gb
+- Search Console			| https://www.google.com/webmasters/tools
+- Structured Data			| https://search.google.com/structured-data/testing-tool
+- Mobile Friendly			| https://www.google.de/webmasters/tools/mobile-friendly
+- Page Speed				| https://developers.google.com/speed/pagespeed/insights
 
 *** WEBSEITEN TEST TOOLS
-- *Seitwert*					| https://www.seitwert.de
-- *Webpage Test*				| http://www.webpagetest.org
-- *Woorank*					| https://www.woorank.com
-- *Website Grader*				| https://website.grader.com
-- *Siteliner*					| http://siteliner.com
-- *Seiten Report*				| http://www.seitenreport.de
-- *Domain Value*				| http://www.domainvalue.de
-- *Ahrefs*					| https://ahrefs.com/de/
+- Seitwert				| https://www.seitwert.de
+- Webpage Test*				| http://www.webpagetest.org
+- Woorank				| https://www.woorank.com
+- Website Grader			| https://website.grader.com
+- Siteliner				| http://siteliner.com
+- Seiten Report				| http://www.seitenreport.de
+- Domain Value				| http://www.domainvalue.de
+- Ahrefs				| https://ahrefs.com/de/
 
 *** WEBSEITEN TECHNOLOGY TOOLS
-- *Buildwith*					| https://builtwith.com
-- *Wappalyzer*					| https://wappalyzer.com 
+- Buildwith				| https://builtwith.com
+- Wappalyzer				| https://wappalyzer.com 
 
 *** COPYRIGHT TOOLS
-- *Plagiarism Checker*				| http://smallseotools.com/plagiarism-checker
-- *Copyright Protection*			| http://www.copyscape.com/online-copyright-protection
+- Plagiarism Checker			| http://smallseotools.com/plagiarism-checker
+- Copyright Protection			| http://www.copyscape.com/online-copyright-protection
 
 *** SERVER TOOLS
-- *Iplookup*					| https://iplookup.flagfox.net
+- Iplookup				| https://iplookup.flagfox.net
 
 *** WEBSEITEN BACKUP
-- *Httrack*					| https://www.httrack.com
+- Httrack				| https://www.httrack.com
 
 *** ANLEITUNGEN
-- *Google Guide*				| https://developers.google.com/search/docs/guides
-- *Google Produkte*				| https://developers.google.com/products
-- *Google Tools*				| https://developers.google.com/search/tools
+- Google Guide				| https://developers.google.com/search/docs/guides
+- Google Produkte			| https://developers.google.com/products
+- Google Tools				| https://developers.google.com/search/tools
 
 *** RICHTLINIEN
-- *Richtlinien der Google-Suche für AMPs*	| https://support.google.com/webmasters/answer/6340290 
+- Richtlinien der Google-Suche für AMPs	| https://support.google.com/webmasters/answer/6340290 
