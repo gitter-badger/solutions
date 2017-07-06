@@ -1,0 +1,191 @@
+* SOLUTIONS 
+*** GUIDES
+- Open Source Guide	| http://www.open-source-guide.com
+- Framalibre		| https://framalibre.org/
+- CMS Critic		| https://www.cmscritic.com/dir
+
+*** CMS
+|--------------------------+------------------------------+-------------------------------------------+--------+----------------|
+| Name                     | Url                          | Blog                                      | Server | Type           |
+|--------------------------+------------------------------+-------------------------------------------+--------+----------------|
+| Drupal                   | http://drupal,org            |                                           |        | ECM            |
+| Plone                    | https://plone.com            |                                           |        | ECM            |
+| Typo3                    | https://typo3.org            |                                           |        | ECM            |
+| Pimcore                  | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog |        | ECM            |
+| Liferay                  | https://www.liferay.com      |                                           |        | ECM            |
+| Mangolia                 | https://www.magnolia-cms.com | https://www.magnolia-cms.com/blogs.html   |        | ECM            |
+| eZ Publish               | https://ez.no                |                                           |        | ECM            |
+| Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |        | ECM            |
+| Worpress                 | https://wordpress.org/       | https://wordpress.org/news/               |        | Blogging       |
+| October CMS              | https://octobercms.com       | https://octobercms.com/blog               |        | CMS            |
+| Django CMS               | https://www.django-cms.org   | https://www.django-cms.org/en/blog        |        | CMS            |
+| Joomla                   | http://joomla.org            |                                           |        | CMS            |
+| Weebly                   | http://www.weebly.com        |                                           | Cloud  | CMS            |
+| Wix                      | http://www.wix.com           |                                           | Cloud  | CMS            |
+| Squarespace              | https://www.squarespace.com  |                                           | Cloud  | CMS            |
+| Jimdo                    | http://www.jimdo.com         |                                           | Cloud  | CMS            |
+| The Grid                 | http://thegrid.io            |                                           | Cloud  | CMS            |
+| Alfresco One             | http://goo.gl/jbUxrq         |                                           | Cloud  | ECM            |
+| Wordpress                | http://wordpress.com         |                                           | Cloud  | Blogging       |
+| Medium                   | http://medium.com            |                                           | Cloud  | Micro Blogging |
+| Blogger                  | http://blogger.com           |                                           | Cloud  | Micro Blogging |
+| Thumblr                  | http://thumblr.com           |                                           | Cloud  | Micro Blogging |
+| Hugo                     | http://gohugo.io             | http://gohugo.io/overview/introduction    |        | Static Site    |
+|                          |                              |                                           |        |                |
+
+*** COMMERCE
+[[https://de.wikipedia.org/wiki/Elektronischer_Handel][Wikipedia (Elektronischer Handel)]]
+
+**** COMMERCE
+- Magento*		| https://magento.com          | Blog https://magento.com/blog
+- Pimcore*		| https://www.pimcore.org      | Blog https://www.pimcore.org/en/resources/blog
+- Infopark*		| https://infopark.com         | Blog https://infopark.com/de/blo
+- Plentymarkets*	| https://www.plentymarkets.eu | Blog https://www.plentymarkets.eu/blog
+- Commercetools*	| https://commercetools.com    | Blog https://commercetools.com/blog
+- Prestashop*		| https://www.prestashop.com   | Blog https://www.prestashop.com/blog/fr
+- OpenCart*		| https://www.opencart.com     | Blog https://www.opencart.com/index.php?route=cms/blog | Demo https://www.opencart.com/index.php?route=cms/demo
+- OroCommerce*		| https://www.orocommerce.com  | Blog https://www.orocommerce.com/blog | Twitter https://twitter.com/OroCommerce
+
+
+**** COMMERCE ADDONS
+- Akeneo		| http://www.akeneo.com   | Blog http://www.akeneo.com/blog
+- Wizishop		| https://www.wizishop.fr | Blog https://www.wizishop.fr/blog
+- Adyn			| https://www.adyen.com   | Blog https://www.adyen.com/blog
+- Iziflux		| http://iziflux.com      | Blog http://blog.iziflux.com
+- Ezwid			| http://ecwid.com        | Blog https://www.ecwid.com
+
+
+**** COMMERCE IN DER  CLOUD
+- Hybris Cloud		|
+- Venda			|
+- Bigcommerce		|
+- Volusion		|
+- Changecommerce	|
+- Prestashop Cloud	|
+- Shopify		|
+- Squarespace		|
+- Epages		|
+- Etsy			|
+- Ecwid			|
+
+*** ERP
+**** ENTERPRISE RESSOURCE PLANNING.
+- SAP Business One	|
+- Infor			|
+- Oracle		|
+- Microsoft Dynamics	| http://www.dynamics.com      | Blog https://community.dynamics.com
+- Compiere		|
+- Idempiere		|
+- Openbravo		| http://www.openbravo.com     | Blog http://www.openbravo.com/blog
+- Odoo			|
+- ERP5			|
+- Ofbiz			|
+- Actindo		|
+- ERPAL			|
+- JTL-Wawi		|
+- Dolibarr		|
+- Erpnext		|
+- Tryton		|
+- Inoideas		|
+- OpenConcerto		|
+  
+*** CRM
+**** COSTUMER MANAGEMENT SYSTEME
+- Pipedrive	| https://pipedrive.com                                                   | Blog https://blog.pipedrive.com
+- Orocrm	| https://www.orocrm.com                                                  | Blog https://www.orocrm.com/blog               | Demo  https://www.orocrm.com/orocrm-demo
+- vTiger	|
+- Sugarcrm	|
+- Dolibarr	|
+- Salesforce	|
+
+*** MARKETING
+**** MARKETING
+- Marketo	| http://marketo.com                                                      | Blog http://fr.blog.marketo.com
+- Criteo	| http://criteo.com                                                       | Blog http://www.criteo.com/blog
+- Mautic	|
+
+**** EMAIL MARKETING
+- Phplist		|
+- SendGrid		|
+- MailChimp		|
+- AWeber		|
+- Boomerang		|
+- Getresponse		|
+- Cleverreach		|
+- Rapidmal		|
+- MailUp		|
+- Activecampaign	|
+- Mandrill		|
+- Verticalresponse	|
+- Mailbeez		|
+
+**** LANDING PAGE
+- Unbounce		| http://unbounce.com                                                     | Blog http://unbounce.com/blog
+
+**** ANALYTICS
+- Google Analytics	| https://www.google.com/analytics
+- Clicky		| https://clicky.com | Blog https://clicky.com/blog/
+- Hotjar		| https://www.hotjar.com/blog                                             | Blog https://www.hotjar.com/blog
+- Piwik			| https://piwik.org | Blog https://piwik.org/blog/
+
+**** PROJECT MANAGEMENT
+- daPulse		| http://daPulse.com                                                      | Blog https://blog.dapulse.com
+- Youtrack		| https://jetbrains.com/youtrack                                          | Blog https://blog.jetbrains.com/youtrack
+- Trello		|
+- Azendoo		|
+- Smartsheet		|
+
+**** SERVICES
+- Start Me		| https://start.me                                                        | Blog https://blog.start.me
+
+**** COLLABORATION
+- Slack			| http://slackhq.com
+
+**** SEO
+- Yourls		| http://yourls.org                                                       | Blog http://blog.yourls.org
+- Seo Panel		| http://seopanel.in                                                      | Blog http://blog.seopanel.in
+- Sistrix		| http://sistrix.de                                                       | Blog https://www.sistrix.de/news
+- Semrush		| http://semrush.com                                                      | Blog https://www.semrush.com/blog
+- Kissmetrics		| http://kissmetrics.com                                                  | Blog https://blog.kissmetrics.com
+
+**** SCRUM
+- Agilefant		| https://www.agilefant.com/blog
+
+**** AUTOMATISATION
+- Zapier		| https://zapier.com/blog
+
+**** OPTIMISATION
+- Optimizely		| https://blog.optimizely.com
+
+**** SOCIAL NETWORKING
+- Paper.li		| http://blog.paper.li
+- Pocket		| https://getpocket.com/blog
+- Add to Any		| https://www.addtoany.com/blog
+- Scoopit		| http://www.scoop.it/content-marketing-resource-center
+
+**** MONITORING
+- Brandwatch		| https://www.brandwatch.com/blog
+
+**** SOCIAL MEDIA
+- Scompler		|
+- Agorapulse		|
+- Facelift		|
+- Hootsuite		|
+- Latergram		|
+- Upflow		|
+- Socialhub		|
+- Scribblelive		|
+- Raven			|
+- Fanpage Karma		|
+- Buffer		|
+- Socialsignals		|
+- Klout			|
+- Social Mention	|
+- Circlecount		|
+- Likealyzer		|
+- Sprout Social		|
+- Tweriod		|
+- Twitter Counter	|
+- Tweet Reach		|
+- Follower Wonk		|
+
