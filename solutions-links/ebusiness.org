@@ -33,6 +33,11 @@
 | Blogger                  | http://blogger.com           |                                           | Cloud  | Micro Blogging |
 | Thumblr                  | http://thumblr.com           |                                           | Cloud  | Micro Blogging |
 | Hugo                     | http://gohugo.io             | http://gohugo.io/overview/introduction    |        | Static Site    |
+| Yellow                   | https://datenstrom.se/yellow | https://developers.datenstrom.se/help     |        | Static Site    |
+| Pelican                  | https://blog.getpelican.com  | http://docs.getpelican.com/en/stable      |        | Static Site    |
+| Hugo                     | http://gohugo.io             | http://gohugo.io/overview/introduction    |        | Static Site    |
+| Sculpin                  | https://sculpin.io           | https://sculpin.io/documentation          |        | Static Site    |
+| Grav                     | https://getgrav.org          | https://learn.getgrav.org                 |        | Static Site    |
 |                          |                              |                                           |        |                |
 
 *** COMMERCE
