@@ -1,8 +1,10 @@
 * SOLUTIONS 
 *** GUIDES
-- Open Source Guide	| http://www.open-source-guide.com
-- Framalibre		| https://framalibre.org/
-- CMS Critic		| https://www.cmscritic.com/dir
+- Open Source Guide		| http://www.open-source-guide.com
+- Framalibre			| https://framalibre.org/
+- CMS Critic			| https://www.cmscritic.com/dir
+- Static Sites Generators	| https://staticsitegenerators.net
+- Static Sites Gen		| https://www.staticgen.com/
 
 *** CMS
 |--------------------------+------------------------------+-------------------------------------------+--------+----------------|
@@ -70,6 +72,7 @@
 
 *** ERP
 **** ENTERPRISE RESSOURCE PLANNING.
+- Marelloi              | http://marello.com
 - SAP Business One	|
 - Infor			|
 - Oracle		|
