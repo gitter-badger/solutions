@@ -18,7 +18,7 @@
 | Mangolia                 | https://www.magnolia-cms.com | https://www.magnolia-cms.com/blogs.html   |        | ECM    |
 | eZ Publish               | https://ez.no                |                                           |        | ECM    |
 | Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |        | ECM    |
-| Worpress                 | https://wordpress.org/       | https://wordpress.org/news/               |        | Blog   |
+| Wordpress                | https://wordpress.org/       | https://wordpress.org/news/               |        | Blog   |
 | October CMS              | https://octobercms.com       | https://octobercms.com/blog               |        | CMS    |
 | Django CMS               | https://www.django-cms.org   | https://www.django-cms.org/en/blog        |        | CMS    |
 | Joomla                   | http://joomla.org            |                                           |        | CMS    |
