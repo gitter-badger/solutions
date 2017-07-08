@@ -7,38 +7,38 @@
 - Static Sites Gen		| https://www.staticgen.com/
 
 *** CMS
-|--------------------------+------------------------------+-------------------------------------------+--------+-------------|
-| Name                     | Url                          | Blog                                      | Server | Type        |
-|--------------------------+------------------------------+-------------------------------------------+--------+-------------|
-| Drupal                   | http://drupal,org            |                                           |        | ECM         |
-| Plone                    | https://plone.com            |                                           |        | ECM         |
-| Typo3                    | https://typo3.org            |                                           |        | ECM         |
-| Pimcore                  | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog |        | ECM         |
-| Liferay                  | https://www.liferay.com      |                                           |        | ECM         |
-| Mangolia                 | https://www.magnolia-cms.com | https://www.magnolia-cms.com/blogs.html   |        | ECM         |
-| eZ Publish               | https://ez.no                |                                           |        | ECM         |
-| Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |        | ECM         |
-| Worpress                 | https://wordpress.org/       | https://wordpress.org/news/               |        | Blogging    |
-| October CMS              | https://octobercms.com       | https://octobercms.com/blog               |        | CMS         |
-| Django CMS               | https://www.django-cms.org   | https://www.django-cms.org/en/blog        |        | CMS         |
-| Joomla                   | http://joomla.org            |                                           |        | CMS         |
-| Weebly                   | http://www.weebly.com        |                                           | Cloud  | CMS         |
-| Wix                      | http://www.wix.com           |                                           | Cloud  | CMS         |
-| Squarespace              | https://www.squarespace.com  |                                           | Cloud  | CMS         |
-| Jimdo                    | http://www.jimdo.com         |                                           | Cloud  | CMS         |
-| The Grid                 | http://thegrid.io            |                                           | Cloud  | CMS         |
-| Alfresco One             | http://goo.gl/jbUxrq         |                                           | Cloud  | ECM         |
-| Wordpress                | http://wordpress.com         |                                           | Cloud  | Blogging    |
-| Medium                   | http://medium.com            |                                           | Cloud  | Blogging    |
-| Blogger                  | http://blogger.com           |                                           | Cloud  | Blogging    |
-| Thumblr                  | http://thumblr.com           |                                           | Cloud  | Blogging    |
-| Hugo                     | http://gohugo.io             | http://gohugo.io/overview/introduction    |        | Static Site |
-| Yellow                   | https://datenstrom.se/yellow | https://developers.datenstrom.se/help     |        | Static Site |
-| Pelican                  | https://blog.getpelican.com  | http://docs.getpelican.com/en/stable      |        | Static Site |
-| Hugo                     | http://gohugo.io             | http://gohugo.io/overview/introduction    |        | Static Site |
-| Sculpin                  | https://sculpin.io           | https://sculpin.io/documentation          |        | Static Site |
-| Grav                     | https://getgrav.org          | https://learn.getgrav.org                 |        | Static Site |
-|                          |                              |                                           |        |             |
+|--------------------------+------------------------------+-------------------------------------------+--------+--------|
+| Name                     | Url                          | Blog                                      | Server | Type   |
+|--------------------------+------------------------------+-------------------------------------------+--------+--------|
+| Drupal                   | http://drupal,org            |                                           |        | ECM    |
+| Plone                    | https://plone.com            |                                           |        | ECM    |
+| Typo3                    | https://typo3.org            |                                           |        | ECM    |
+| Pimcore                  | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog |        | ECM    |
+| Liferay                  | https://www.liferay.com      |                                           |        | ECM    |
+| Mangolia                 | https://www.magnolia-cms.com | https://www.magnolia-cms.com/blogs.html   |        | ECM    |
+| eZ Publish               | https://ez.no                |                                           |        | ECM    |
+| Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |        | ECM    |
+| Worpress                 | https://wordpress.org/       | https://wordpress.org/news/               |        | Blog   |
+| October CMS              | https://octobercms.com       | https://octobercms.com/blog               |        | CMS    |
+| Django CMS               | https://www.django-cms.org   | https://www.django-cms.org/en/blog        |        | CMS    |
+| Joomla                   | http://joomla.org            |                                           |        | CMS    |
+| Weebly                   | http://www.weebly.com        |                                           | Cloud  | CMS    |
+| Wix                      | http://www.wix.com           |                                           | Cloud  | CMS    |
+| Squarespace              | https://www.squarespace.com  |                                           | Cloud  | CMS    |
+| Jimdo                    | http://www.jimdo.com         |                                           | Cloud  | CMS    |
+| The Grid                 | http://thegrid.io            |                                           | Cloud  | CMS    |
+| Alfresco One             | http://goo.gl/jbUxrq         |                                           | Cloud  | ECM    |
+| Wordpress                | http://wordpress.com         |                                           | Cloud  | Blog   |
+| Medium                   | http://medium.com            |                                           | Cloud  | Blog   |
+| Blogger                  | http://blogger.com           |                                           | Cloud  | Blog   |
+| Thumblr                  | http://thumblr.com           |                                           | Cloud  | Blog   |
+| Hugo                     | http://gohugo.io             | http://gohugo.io/overview/introduction    |        | Static |
+| Yellow                   | https://datenstrom.se/yellow | https://developers.datenstrom.se/help     |        | Static |
+| Pelican                  | https://blog.getpelican.com  | http://docs.getpelican.com/en/stable      |        | Static |
+| Hugo                     | http://gohugo.io             | http://gohugo.io/overview/introduction    |        | Static |
+| Sculpin                  | https://sculpin.io           | https://sculpin.io/documentation          |        | Static |
+| Grav                     | https://getgrav.org          | https://learn.getgrav.org                 |        | Static |
+|                          |                              |                                           |        |        |
 
 *** COMMERCE
 [[https://de.wikipedia.org/wiki/Elektronischer_Handel][Wikipedia (Elektronischer Handel)]]
