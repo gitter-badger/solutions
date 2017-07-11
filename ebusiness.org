@@ -6,10 +6,10 @@
 - Static Sites Generators	| https://staticsitegenerators.net
 - Static Sites Gen		| https://www.staticgen.com/
 
-*** ECM 
+*** ENTERPRISE CONTENT MANAGEMENT 
 
 |--------------------------+------------------------------+-------------------------------------------|
-| Name                     | Url                          | Blog                                      |
+| NAME                     | URL                          | BLOG                                      |
 |--------------------------+------------------------------+-------------------------------------------|
 | Drupal                   | http://drupal,org            |                                           |
 | Plone                    | https://plone.com            |                                           |
@@ -21,10 +21,10 @@
 | Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |
 | Alfresco One             | http://goo.gl/jbUxrq         |                                           |
 
-*** CMS
+*** CONTENT MANAGEMENT 
 
 |-------------+-----------------------------+------------------------------------|
-| Name        | Url                         | Blog                               |
+| NAME        | URL                         | BLOG                               |
 |-------------+-----------------------------+------------------------------------|
 | October CMS | https://octobercms.com      | https://octobercms.com/blog        |
 | Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
@@ -38,7 +38,7 @@
 *** STATIC SITES
 
 |---------+------------------------------+----------------------------------------|
-| Name    | Url                          | Blog                                   |
+| NAME    | URL                          | BLOG                                   |
 |---------+------------------------------+----------------------------------------|
 | Hugo    | http://gohugo.io             | http://gohugo.io/overview/introduction |
 | Yellow  | https://datenstrom.se/yellow | https://developers.datenstrom.se/help  |
@@ -54,23 +54,33 @@
 | Name      | Url                    | Blog                        |
 |-----------+------------------------+-----------------------------|
 | Wordpress | https://wordpress.org/ | https://wordpress.org/news/ |
-| Wordpress | http://wordpress.com   |                             |
+
+*** MICRO BLOGGING
+
+|-----------+------------------------+-----------------------------|
+| Name      | Url                    | Blog                        |
+|-----------+------------------------+-----------------------------|
 | Medium    | http://medium.com      |                             |
 | Blogger   | http://blogger.com     |                             |
 | Thumblr   | http://thumblr.com     |                             |
 
-*** COMMERCE
-[[https://de.wikipedia.org/wiki/Elektronischer_Handel][Wikipedia (Elektronischer Handel)]]
+*** COMMERCE 
 
-**** COMMERCE
-- Magento*		| https://magento.com          | Blog https://magento.com/blog
-- Pimcore*		| https://www.pimcore.org      | Blog https://www.pimcore.org/en/resources/blog
-- Infopark*		| https://infopark.com         | Blog https://infopark.com/de/blo
-- Plentymarkets*	| https://www.plentymarkets.eu | Blog https://www.plentymarkets.eu/blog
-- Commercetools*	| https://commercetools.com    | Blog https://commercetools.com/blog
-- Prestashop*		| https://www.prestashop.com   | Blog https://www.prestashop.com/blog/fr
-- OpenCart*		| https://www.opencart.com     | Blog https://www.opencart.com/index.php?route=cms/blog | Demo https://www.opencart.com/index.php?route=cms/demo
-- OroCommerce*		| https://www.orocommerce.com  | Blog https://www.orocommerce.com/blog | Twitter https://twitter.com/OroCommerce
+|---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
+| NAME          | URL                          | BLOG                                              | DEMO                                                   |
+|---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
+| Magento       | https://magento.com          | https://magento.com/blog                          |                                                        |
+| Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         |                                                        |
+| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       |                                                        |
+| Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 |                                                        |
+| Commercetools | https://commercetools.com    | https://commercetools.com/blog                    |                                                        |
+| Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                |                                                        |
+| OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | Demo https://www.opencart.com/index.php?route=cms/demo |
+| OroCommerce   | https://www.orocommerce.com  | https://www.orocommerce.com/blog                  |                                                        |
+|               |                              |                                                   |                                                        |
+
+- [[https://de.wikipedia.org/wiki/Elektronischer_Handel][Wikipedia (Elektronischer Handel)]]
+
 
 
 **** COMMERCE ADDONS

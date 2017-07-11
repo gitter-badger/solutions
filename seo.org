@@ -1,13 +1,15 @@
-* WEBSEITEN TOOLS
+* WEBSEITEN  TOOLS
 
-*** GOOGLE TOOLS
+***  GOOGLE   
+
 - Test My Site				| https://testmysite.withgoogle.com/intl/en-gb
 - Search Console			| https://www.google.com/webmasters/tools
 - Structured Data			| https://search.google.com/structured-data/testing-tool
 - Mobile Friendly			| https://www.google.de/webmasters/tools/mobile-friendly
 - Page Speed				| https://developers.google.com/speed/pagespeed/insights
 
-*** WEBSEITEN TEST TOOLS
+*** TESTEN 
+
 - Seitwert				| https://www.seitwert.de
 - Webpage Test*				| http://www.webpagetest.org
 - Woorank				| https://www.woorank.com
@@ -17,24 +19,31 @@
 - Domain Value				| http://www.domainvalue.de
 - Ahrefs				| https://ahrefs.com/de/
 
-*** WEBSEITEN TECHNOLOGY TOOLS
+*** TECHNOLOGY
+    
 - Buildwith				| https://builtwith.com
 - Wappalyzer				| https://wappalyzer.com 
 
-*** COPYRIGHT TOOLS
+*** COPYRIGHT
+
 - Plagiarism Checker			| http://smallseotools.com/plagiarism-checker
 - Copyright Protection			| http://www.copyscape.com/online-copyright-protection
 
-*** SERVER TOOLS
+*** SERVER
+    
 - Iplookup				| https://iplookup.flagfox.net
 
-*** WEBSEITEN BACKUP
+*** BACKUP
+
 - Httrack				| https://www.httrack.com
+  
 
 *** ANLEITUNGEN
+
 - Google Guide				| https://developers.google.com/search/docs/guides
 - Google Produkte			| https://developers.google.com/products
 - Google Tools				| https://developers.google.com/search/tools
 
-*** RICHTLINIEN
+***  RICHTLINIEN
+
 - Richtlinien der Google-Suche für AMPs	| https://support.google.com/webmasters/answer/6340290 
