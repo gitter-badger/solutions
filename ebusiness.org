@@ -1,39 +1,41 @@
 * SOLUTIONS 
 *** GUIDES
-- Open Source Guide		| http://www.open-source-guide.com
-- Framalibre			| https://framalibre.org/
-- CMS Critic			| https://www.cmscritic.com/dir
-- Static Sites Generators	| https://staticsitegenerators.net
-- Static Sites Gen		| https://www.staticgen.com/
-
+- Open Source Guide                    | http://www.open-source-guide.com
+- Framalibre                           | https://framalibre.org/
+- CMS Critic                           | https://www.cmscritic.com/dir
+- Static Sites Generators              | https://staticsitegenerators.net
+- Static Sites Gen                     | https://www.staticgen.com/
+- Top Open-Source E-Commerce Platforms | https://www.ecommwar.com
+- Open Source Guide                    | http://www.open-source-guide.com/Solutions
+  
 *** ENTERPRISE CONTENT MANAGEMENT 
 
 |--------------------------+------------------------------+-------------------------------------------|
 | NAME                     | URL                          | BLOG                                      |
 |--------------------------+------------------------------+-------------------------------------------|
-| Drupal                   | http://drupal,org            |                                           |
-| Plone                    | https://plone.com            |                                           |
-| Typo3                    | https://typo3.org            |                                           |
-| Pimcore                  | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog |
-| Liferay                  | https://www.liferay.com      |                                           |
-| Mangolia                 | https://www.magnolia-cms.com | https://www.magnolia-cms.com/blogs.html   |
-| eZ Publish               | https://ez.no                |                                           |
 | Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |
 | Alfresco One             | http://goo.gl/jbUxrq         |                                           |
+| Drupal                   | http://drupal,org            |                                           |
+| Liferay                  | https://www.liferay.com      |                                           |
+| Mangolia                 | https://www.magnolia-cms.com | https://www.magnolia-cms.com/blogs.html   |
+| Pimcore                  | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog |
+| Plone                    | https://plone.com            |                                           |
+| Typo3                    | https://typo3.org            |                                           |
+| eZ Publish               | https://ez.no                |                                           |
 
 *** CONTENT MANAGEMENT 
 
 |-------------+-----------------------------+------------------------------------|
 | NAME        | URL                         | BLOG                               |
 |-------------+-----------------------------+------------------------------------|
-| October CMS | https://octobercms.com      | https://octobercms.com/blog        |
-| Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
 | Joomla      | http://joomla.org           |                                    |
+| The Grid    | http://thegrid.io           |                                    |
+| Jimdo       | http://www.jimdo.com        |                                    |
 | Weebly      | http://www.weebly.com       |                                    |
 | Wix         | http://www.wix.com          |                                    |
+| October CMS | https://octobercms.com      | https://octobercms.com/blog        |
+| Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
 | Squarespace | https://www.squarespace.com |                                    |
-| Jimdo       | http://www.jimdo.com        |                                    |
-| The Grid    | http://thegrid.io           |                                    |
 
 *** STATIC SITES
 
@@ -41,12 +43,11 @@
 | NAME    | URL                          | BLOG                                   |
 |---------+------------------------------+----------------------------------------|
 | Hugo    | http://gohugo.io             | http://gohugo.io/overview/introduction |
-| Yellow  | https://datenstrom.se/yellow | https://developers.datenstrom.se/help  |
-| Pelican | https://blog.getpelican.com  | http://docs.getpelican.com/en/stable   |
 | Hugo    | http://gohugo.io             | http://gohugo.io/overview/introduction |
-| Sculpin | https://sculpin.io           | https://sculpin.io/documentation       |
+| Pelican | https://blog.getpelican.com  | http://docs.getpelican.com/en/stable   |
+| Yellow  | https://datenstrom.se/yellow | https://developers.datenstrom.se/help  |
 | Grav    | https://getgrav.org          | https://learn.getgrav.org              |
-|         |                              |                                        |
+| Sculpin | https://sculpin.io           | https://sculpin.io/documentation       |
 
 *** BLOGS
 
@@ -60,8 +61,8 @@
 |-----------+------------------------+-----------------------------|
 | Name      | Url                    | Blog                        |
 |-----------+------------------------+-----------------------------|
-| Medium    | http://medium.com      |                             |
 | Blogger   | http://blogger.com     |                             |
+| Medium    | http://medium.com      |                             |
 | Thumblr   | http://thumblr.com     |                             |
 
 *** COMMERCE 
@@ -69,79 +70,73 @@
 |---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
 | NAME          | URL                          | BLOG                                              | DEMO                                                   |
 |---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
-| Magento       | https://magento.com          | https://magento.com/blog                          |                                                        |
-| Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         |                                                        |
-| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       |                                                        |
-| Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 |                                                        |
 | Commercetools | https://commercetools.com    | https://commercetools.com/blog                    |                                                        |
-| Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                |                                                        |
+| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       |                                                        |
+| Magento       | https://magento.com          | https://magento.com/blog                          |                                                        |
 | OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | Demo https://www.opencart.com/index.php?route=cms/demo |
 | OroCommerce   | https://www.orocommerce.com  | https://www.orocommerce.com/blog                  |                                                        |
-|               |                              |                                                   |                                                        |
+| Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         |                                                        |
+| Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 |                                                        |
+| Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                |                                                        |
 
-- [[https://de.wikipedia.org/wiki/Elektronischer_Handel][Wikipedia (Elektronischer Handel)]]
-
-
-
-**** COMMERCE ADDONS
-- Akeneo		| http://www.akeneo.com   | Blog http://www.akeneo.com/blog
-- Wizishop		| https://www.wizishop.fr | Blog https://www.wizishop.fr/blog
+*** COMMERCE ADDONS
 - Adyn			| https://www.adyen.com   | Blog https://www.adyen.com/blog
-- Iziflux		| http://iziflux.com      | Blog http://blog.iziflux.com
+- Akeneo		| http://www.akeneo.com   | Blog http://www.akeneo.com/blog
 - Ezwid			| http://ecwid.com        | Blog https://www.ecwid.com
+- Iziflux		| http://iziflux.com      | Blog http://blog.iziflux.com
+- Wizishop		| https://www.wizishop.fr | Blog https://www.wizishop.fr/blog
 
 
 **** COMMERCE IN DER  CLOUD
-- Hybris Cloud		|
-- Venda			|
 - Bigcommerce		|
-- Volusion		|
 - Changecommerce	|
+- Ecwid			|
+- Epages		|
+- Etsy			|
+- Hybris Cloud		|
 - Prestashop Cloud	|
 - Shopify		|
 - Squarespace		|
-- Epages		|
-- Etsy			|
-- Ecwid			|
+- Venda			|
+- Volusion		|
 
 *** ERP
 **** ENTERPRISE RESSOURCE PLANNING.
-- Marelloi              | http://marello.com
-- SAP Business One	|
-- Infor			|
-- Oracle		|
-- Microsoft Dynamics	| http://www.dynamics.com      | Blog https://community.dynamics.com
-- Compiere		|
-- Idempiere		|
-- Openbravo		| http://www.openbravo.com     | Blog http://www.openbravo.com/blog
-- Odoo			|
-- ERP5			|
-- Ofbiz			|
 - Actindo		|
-- ERPAL			|
-- JTL-Wawi		|
+- Compiere		|
 - Dolibarr		|
+- ERP5			|
+- ERPAL			|
 - Erpnext		|
-- Tryton		|
+- Idempiere		|
+- Infor			|
 - Inoideas		|
+- JTL-Wawi		|
+- Marelloi              | http://marello.com
+- Microsoft Dynamics	| http://www.dynamics.com      | Blog https://community.dynamics.com
+- Odoo			|
+- Ofbiz			|
 - OpenConcerto		|
+- Openbravo		| http://www.openbravo.com     | Blog http://www.openbravo.com/blog
+- Oracle		|
+- SAP Business One	|
+- Tryton		|
   
 *** CRM
 **** COSTUMER MANAGEMENT SYSTEME
-- Pipedrive	| https://pipedrive.com                                                   | Blog https://blog.pipedrive.com
-- Orocrm	| https://www.orocrm.com                                                  | Blog https://www.orocrm.com/blog               | Demo  https://www.orocrm.com/orocrm-demo
-- vTiger	|
-- Sugarcrm	|
 - Dolibarr	|
+- Orocrm	| https://www.orocrm.com                                                  | Blog https://www.orocrm.com/blog               | Demo  https://www.orocrm.com/orocrm-demo
+- Pipedrive	| https://pipedrive.com                                                   | Blog https://blog.pipedrive.com
 - Salesforce	|
+- Sugarcrm	|
+- vTiger	|
 
 *** MARKETING
-**** MARKETING
 - Marketo	| http://marketo.com                                                      | Blog http://fr.blog.marketo.com
 - Criteo	| http://criteo.com                                                       | Blog http://www.criteo.com/blog
 - Mautic	|
 
-**** EMAIL MARKETING
+*** EMAIL MARKETING
 - Phplist		|
 - SendGrid		|
 - MailChimp		|
@@ -156,54 +151,54 @@
 - Verticalresponse	|
 - Mailbeez		|
 
-**** LANDING PAGE
+*** LANDING PAGE
 - Unbounce		| http://unbounce.com                                                     | Blog http://unbounce.com/blog
 
-**** ANALYTICS
+*** ANALYTICS
 - Google Analytics	| https://www.google.com/analytics
 - Clicky		| https://clicky.com | Blog https://clicky.com/blog/
 - Hotjar		| https://www.hotjar.com/blog                                             | Blog https://www.hotjar.com/blog
 - Piwik			| https://piwik.org | Blog https://piwik.org/blog/
 
-**** PROJECT MANAGEMENT
+*** PROJECT MANAGEMENT
 - daPulse		| http://daPulse.com                                                      | Blog https://blog.dapulse.com
 - Youtrack		| https://jetbrains.com/youtrack                                          | Blog https://blog.jetbrains.com/youtrack
 - Trello		|
 - Azendoo		|
 - Smartsheet		|
 
-**** SERVICES
+*** SERVICES
 - Start Me		| https://start.me                                                        | Blog https://blog.start.me
 
-**** COLLABORATION
+*** COLLABORATION
 - Slack			| http://slackhq.com
 
-**** SEO
+*** SEO
 - Yourls		| http://yourls.org                                                       | Blog http://blog.yourls.org
 - Seo Panel		| http://seopanel.in                                                      | Blog http://blog.seopanel.in
 - Sistrix		| http://sistrix.de                                                       | Blog https://www.sistrix.de/news
 - Semrush		| http://semrush.com                                                      | Blog https://www.semrush.com/blog
 - Kissmetrics		| http://kissmetrics.com                                                  | Blog https://blog.kissmetrics.com
 
-**** SCRUM
+*** SCRUM
 - Agilefant		| https://www.agilefant.com/blog
 
-**** AUTOMATISATION
+*** AUTOMATISATION
 - Zapier		| https://zapier.com/blog
 
-**** OPTIMISATION
+*** OPTIMISATION
 - Optimizely		| https://blog.optimizely.com
 
-**** SOCIAL NETWORKING
+*** SOCIAL NETWORKING
 - Paper.li		| http://blog.paper.li
 - Pocket		| https://getpocket.com/blog
 - Add to Any		| https://www.addtoany.com/blog
 - Scoopit		| http://www.scoop.it/content-marketing-resource-center
 
-**** MONITORING
+*** MONITORING
 - Brandwatch		| https://www.brandwatch.com/blog
 
-**** SOCIAL MEDIA
+*** SOCIAL MEDIA
 - Scompler		|
 - Agorapulse		|
 - Facelift		|
