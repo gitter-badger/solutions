@@ -43,7 +43,6 @@
 | NAME    | URL                          | BLOG                                   |
 |---------+------------------------------+----------------------------------------|
 | Hugo    | http://gohugo.io             | http://gohugo.io/overview/introduction |
-| Hugo    | http://gohugo.io             | http://gohugo.io/overview/introduction |
 | Pelican | https://blog.getpelican.com  | http://docs.getpelican.com/en/stable   |
 | Yellow  | https://datenstrom.se/yellow | https://developers.datenstrom.se/help  |
 | Grav    | https://getgrav.org          | https://learn.getgrav.org              |
