@@ -10,7 +10,6 @@
   
 *** ENTERPRISE CONTENT MANAGEMENT 
 
-|--------------------------+------------------------------+-------------------------------------------|
 | NAME                     | URL                          | BLOG                                      |
 |--------------------------+------------------------------+-------------------------------------------|
 | Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |
@@ -23,21 +22,29 @@
 | Typo3                    | https://typo3.org            |                                           |
 | eZ Publish               | https://ez.no                |                                           |
 
-*** CONTENT MANAGEMENT 
+*** CONTENT MANAGEMENT SYSTEME 
 
 |-------------+-----------------------------+------------------------------------|
 | NAME        | URL                         | BLOG                               |
 |-------------+-----------------------------+------------------------------------|
 | Joomla      | http://joomla.org           |                                    |
+| October CMS | https://octobercms.com      | https://octobercms.com/blog        |
+| Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
+
+
+*** CLOUD CONTENT MANAGEMENT SYSTEME 
+
+|-------------+-----------------------------+------------------------------------|
+| NAME        | URL                         | BLOG                               |
+|-------------+-----------------------------+------------------------------------|
 | The Grid    | http://thegrid.io           |                                    |
 | Jimdo       | http://www.jimdo.com        |                                    |
 | Weebly      | http://www.weebly.com       |                                    |
 | Wix         | http://www.wix.com          |                                    |
-| October CMS | https://octobercms.com      | https://octobercms.com/blog        |
-| Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
 | Squarespace | https://www.squarespace.com |                                    |
+| Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
 
-*** STATIC SITES
+*** STATIC SITES GENERATORS
 
 |---------+------------------------------+----------------------------------------|
 | NAME    | URL                          | BLOG                                   |
@@ -47,6 +54,12 @@
 | Yellow  | https://datenstrom.se/yellow | https://developers.datenstrom.se/help  |
 | Grav    | https://getgrav.org          | https://learn.getgrav.org              |
 | Sculpin | https://sculpin.io           | https://sculpin.io/documentation       |
+
+*** FLAT FILES CMS
+
+| NAME    | URL                          | BLOG                                   |
+|---------+------------------------------+----------------------------------------|
+| Grav    | https://getgrav.org          | https://learn.getgrav.org              |
 
 *** BLOGS
 
@@ -66,21 +79,26 @@
 
 *** COMMERCE 
 
-|---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
-| NAME          | URL                          | BLOG                                              | DEMO                                                   |
-|---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
-| Commercetools | https://commercetools.com    | https://commercetools.com/blog                    |                                                        |
-| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       |                                                        |
-| Magento       | https://magento.com          | https://magento.com/blog                          |                                                        |
-| OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | Demo https://www.opencart.com/index.php?route=cms/demo |
-| OroCommerce   | https://www.orocommerce.com  | https://www.orocommerce.com/blog                  |                                                        |
-| Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         |                                                        |
-| Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 |                                                        |
-| Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                |                                                        |
+|---------------+------------------------------+---------------------------------------------------+---------------------------------------------------|
+| NAME          | URL                          | BLOG                                              | DEMO                                              |
+|---------------+------------------------------+---------------------------------------------------+---------------------------------------------------|
+| Commercetools | https://commercetools.com    | https://commercetools.com/blog                    | -                                                 |
+| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       | -                                                 |
+| Magento       | https://magento.com          | https://magento.com/blog                          | -                                                 |
+| OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | https://www.opencart.com/index.php?route=cms/demo |
+| OroCommerce   | https://www.orocommerce.com  | https://www.orocommerce.com/blog                  | -                                                 |
+| Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         | -                                                 |
+| Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 | -                                                 |
+| Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                | -                                                 |
 
 *** COMMERCE ADDONS
-- Adyn			| https://www.adyen.com   | Blog https://www.adyen.com/blog
-- Akeneo		| http://www.akeneo.com   | Blog http://www.akeneo.com/blog
+
+|--------+-----------------------+----------------------------+------|
+| NAME   | URL                   | BLOG                       | DEMO |
+|--------+-----------------------+----------------------------+------|
+| Adyn   | https://www.adyen.com | https://www.adyen.com/blog | -    |
+| Akeneo | http://www.akeneo.com | http://www.akeneo.com/blog | -    |
+|        |                       |                            |      |
 - Ezwid			| http://ecwid.com        | Blog https://www.ecwid.com
 - Iziflux		| http://iziflux.com      | Blog http://blog.iziflux.com
 - Wizishop		| https://www.wizishop.fr | Blog https://www.wizishop.fr/blog
@@ -198,25 +216,47 @@
 - Brandwatch		| https://www.brandwatch.com/blog
 
 *** SOCIAL MEDIA
-- Scompler		|
-- Agorapulse		|
-- Facelift		|
-- Hootsuite		|
-- Latergram		|
-- Upflow		|
-- Socialhub		|
-- Scribblelive		|
-- Raven			|
-- Fanpage Karma		|
-- Buffer		|
-- Socialsignals		|
-- Klout			|
-- Social Mention	|
-- Circlecount		|
-- Likealyzer		|
-- Sprout Social		|
-- Tweriod		|
-- Twitter Counter	|
-- Tweet Reach		|
-- Follower Wonk		|
+| NAME           | URL | BLOG |
+|----------------+-----+------|
+| Ŝcompler       |     |      |
+| Agorapulse     |     |      |
+| Facelift       |     |      |
+| Hootsuite      |     |      |
+| Latergram      |     |      |
+| Upflow         |     |      |
+| Socialhub      |     |      |
+| Scribblelive   |     |      |
+| Raven          |     |      |
+| Socialsignals  |     |      |
+| Klout          |     |      |
+| Fanpage Karma  |     |      |
+| Buffer         |     |      |
+| Social Mention |     |      |
+| Likealyzer     |     |      |
+| Sprout Social  |     |      |
+| Tweriod        |     |      |
+| Tweet Reach    |     |      |
+| Follower Wonk  |     |      |
+|                |     |      |
 
+*** FRAMEWORK
+
+| NAME   | URL              | BLOG | GIT                       |
+|--------+------------------+------+---------------------------|
+| Zikula | http://zikula.de |      | https://github.com/zikula |
+|        |                  |      |                           |
+
+*** CONTENT MARKETING
+
+| NAME     | URL                     | BLOG                         |
+|----------+-------------------------+------------------------------|
+| Desk Net | http://www.desk-net.com | http://www.desk-net.com/blog |
+|          |                         |                              |
+
+*** DIGITAL ASSESTS MANAGEMENT ( DAM )
+
+| NAME          | URL                           | BLOG                               |
+|---------------+-------------------------------+------------------------------------|
+| Woodwing      | https://www.woodwing.com      | https://www.woodwing.com/en/blog   |
+| Resourcespace | https://www.resourcespace.com | https://www.resourcespace.com/feed |
+|               |                               |                                    |

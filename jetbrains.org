@@ -1,7 +1,7 @@
 * YETBRAINS IDE'S
-
+/*Folgende Links erlauben schnellen Zugriff auf Jetbrains Produkt Seiten und Informationen.*/
 ** Phpstorm
-
+/*PHP Entwicklungs Umgebung.Auch IDE genannt*/
 - Phpstorm				| https://www.jetbrains.com/phpstorm
 - Phpstorm Blog				| https://blog.jetbrains.com/phpstorm
 - Phpstorm Facebook			| https://www.facebook.com/PhpStorm
@@ -12,7 +12,7 @@
 - Phpstorm Plugins			| https://plugins.jetbrains.com/?phpStorm
 
 ** Youtrack
-
+/*Projekt Management Anwendung*/ 
 - Youtack				| https://www.jetbrains.com/youtrack
 - Youtrack Blog				| https://blog.jetbrains.com/youtrack
 - Youtack Twitter			| https://twitter.com/youtrack
@@ -24,7 +24,7 @@
 - Youtrack Screencast			| https://www.youtube.com/watch?v=d7oSxVVzb2A&list=PLQ176FUIyIUbGE728KezWz1J15fHW0S_m
   
 ** DataGrip
-
+/*Datenbank Entwicklungs Umgebung*/
 - Datagrip				| https://www.jetbrains.com/datagrip
 - Datagrip Blog				| https://blog.jetbrains.com/datagrip
 - Datagrip aTwitter			| https://twitter.com/0xdbe
