@@ -1,49 +1,35 @@
 * WEBSEITEN  TOOLS
-
-***  GOOGLE   
-
+** TOOLS
+*** GOOGLE   
 - Test My Site				| https://testmysite.withgoogle.com/intl/en-gb
 - Search Console			| https://www.google.com/webmasters/tools
 - Structured Data			| https://search.google.com/structured-data/testing-tool
 - Mobile Friendly			| https://www.google.de/webmasters/tools/mobile-friendly
 - Page Speed				| https://developers.google.com/speed/pagespeed/insights
-
 *** TESTEN 
-
 - Seitwert				| https://www.seitwert.de
-- Webpage Test*				| http://www.webpagetest.org
+- Webpage Test				| http://www.webpagetest.org
 - Woorank				| https://www.woorank.com
 - Website Grader			| https://website.grader.com
 - Siteliner				| http://siteliner.com
 - Seiten Report				| http://www.seitenreport.de
 - Domain Value				| http://www.domainvalue.de
-- Ahrefs				| https://ahrefs.com/de/
-
+- Ahrefs				| https://ahrefs.com/de
+- Optimization                          | https://optimization.tips
 *** TECHNOLOGY
-    
 - Buildwith				| https://builtwith.com
 - Wappalyzer				| https://wappalyzer.com 
-
 *** COPYRIGHT
-
 - Plagiarism Checker			| http://smallseotools.com/plagiarism-checker
 - Copyright Protection			| http://www.copyscape.com/online-copyright-protection
-
 *** SERVER
-    
 - Iplookup				| https://iplookup.flagfox.net
-
 *** BACKUP
-
 - Httrack				| https://www.httrack.com
-  
-
+** DOKUMENTATIONEN
 *** ANLEITUNGEN
-
 - Google Guide				| https://developers.google.com/search/docs/guides
 - Google Produkte			| https://developers.google.com/products
 - Google Tools				| https://developers.google.com/search/tools
-
-***  RICHTLINIEN
-
+*** RICHTLINIEN
 - Richtlinien der Google-Suche für AMPs	| https://support.google.com/webmasters/answer/6340290 

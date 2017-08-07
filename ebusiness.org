@@ -31,7 +31,6 @@
 | October CMS | https://octobercms.com      | https://octobercms.com/blog        |
 | Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
 
-
 *** CLOUD CONTENT MANAGEMENT SYSTEME 
 
 |-------------+-----------------------------+------------------------------------|
@@ -79,17 +78,17 @@
 
 *** COMMERCE 
 
-|---------------+------------------------------+---------------------------------------------------+---------------------------------------------------|
-| NAME          | URL                          | BLOG                                              | DEMO                                              |
-|---------------+------------------------------+---------------------------------------------------+---------------------------------------------------|
-| Commercetools | https://commercetools.com    | https://commercetools.com/blog                    | -                                                 |
-| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       | -                                                 |
-| Magento       | https://magento.com          | https://magento.com/blog                          | -                                                 |
-| OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | https://www.opencart.com/index.php?route=cms/demo |
-| OroCommerce   | https://www.orocommerce.com  | https://www.orocommerce.com/blog                  | -                                                 |
-| Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         | -                                                 |
-| Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 | -                                                 |
-| Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                | -                                                 |
+|---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
+| NAME          | URL                          | BLOG                                              | DEMO                                                   |
+|---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
+| Commercetools | https://commercetools.com    | https://commercetools.com/blog                    |                                                        |
+| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       |                                                        |
+| Magento       | https://magento.com          | https://magento.com/blog                          |                                                        |
+| OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | Demo https://www.opencart.com/index.php?route=cms/demo |
+| OroCommerce   | https://www.orocommerce.com  | https://www.orocommerce.com/blog                  |                                                        |
+| Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         |                                                        |
+| Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 |                                                        |
+| Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                |                                                        |
 
 *** COMMERCE ADDONS
 
@@ -241,10 +240,13 @@
 
 *** FRAMEWORK
 
-| NAME   | URL              | BLOG | GIT                       |
-|--------+------------------+------+---------------------------|
-| Zikula | http://zikula.de |      | https://github.com/zikula |
-|        |                  |      |                           |
+| NAME    | URL              | BLOG | GIT                       |
+|---------+------------------+------+---------------------------|
+| Zikula  | http://zikula.de |      | https://github.com/zikula |
+| Django  |                  |      |                           |
+| Symfony |                  |      |                           |
+| Laravel |                  |      |                           |
+|         |                  |      |                           |
 
 *** CONTENT MARKETING
 
@@ -260,3 +262,8 @@
 | Woodwing      | https://www.woodwing.com      | https://www.woodwing.com/en/blog   |
 | Resourcespace | https://www.resourcespace.com | https://www.resourcespace.com/feed |
 |               |                               |                                    |
+
+
+http://www.aha.io
+http://www.aha.io/blog
+https://www.aha.io/product/pricing
