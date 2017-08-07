@@ -7,7 +7,8 @@
 - Static Sites Gen                     | https://www.staticgen.com/
 - Top Open-Source E-Commerce Platforms | https://www.ecommwar.com
 - Open Source Guide                    | http://www.open-source-guide.com/Solutions
-  
+- g2crowd                              | https://www.g2crowd.com  
+- Capterra                             | http://www.capterra.com
 *** ENTERPRISE CONTENT MANAGEMENT 
 
 | NAME                     | URL                          | BLOG                                      |
