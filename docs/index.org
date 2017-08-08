@@ -1,0 +1,6 @@
+# -*- mode: org; -*-
+#+SETUPFILE: theme-readtheorg-local.setup
+#+CREATOR: Patrick Schanen
+#+EMAIL: patrick.schanen@gmail.com
+#+TAGS: Solutions 
+#+INCLUDE: "~/orgmode/solutions/ebusiness.org"
