@@ -63,10 +63,10 @@ body{
     background:#fcfcfc;
     height:100%;
     /* margin-left:300px; */
-    margin-left:350px;
+    margin-left:450px;
     /* margin:auto; */
     /* max-width:800px; */
-    max-width:1200px;
+    max-width:1400px;
     min-height:100%;
     padding:1.618em 3.236em;
 }
@@ -777,7 +777,7 @@ hr{
     top:0;
     left:0;
     /* width:300px; */
-    width:350px;
+    width:450px;
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
@@ -885,7 +885,7 @@ footer p{
     position:fixed;
     bottom:0;
     left:0;
-    width:350px;
+    width:450px;
     color:#fcfcfc;
     background:#1f1d1d;
     /* border-top:solid 10px #343131; */

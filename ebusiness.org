@@ -1,5 +1,4 @@
-* SOLUTIONS 
-*** GUIDES
+** GUIDES
 - Open Source Guide                    | http://www.open-source-guide.com
 - Framalibre                           | https://framalibre.org/
 - CMS Critic                           | https://www.cmscritic.com/dir
@@ -9,7 +8,8 @@
 - Open Source Guide                    | http://www.open-source-guide.com/Solutions
 - g2crowd                              | https://www.g2crowd.com  
 - Capterra                             | http://www.capterra.com
-*** ENTERPRISE CONTENT MANAGEMENT 
+
+** ENTERPRISE CONTENT MANAGEMENT 
 
 | NAME                     | URL                          | BLOG                                      |
 |--------------------------+------------------------------+-------------------------------------------|
@@ -23,7 +23,8 @@
 | Typo3                    | https://typo3.org            |                                           |
 | eZ Publish               | https://ez.no                |                                           |
 
-*** CONTENT MANAGEMENT SYSTEME 
+
+** CONTENT MANAGEMENT SYSTEME 
 
 |-------------+-----------------------------+------------------------------------|
 | NAME        | URL                         | BLOG                               |
@@ -32,7 +33,8 @@
 | October CMS | https://octobercms.com      | https://octobercms.com/blog        |
 | Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
 
-*** CLOUD CONTENT MANAGEMENT SYSTEME 
+
+** CLOUD CONTENT MANAGEMENT SYSTEME 
 
 |-------------+-----------------------------+------------------------------------|
 | NAME        | URL                         | BLOG                               |
@@ -44,7 +46,7 @@
 | Squarespace | https://www.squarespace.com |                                    |
 | Django CMS  | https://www.django-cms.org  | https://www.django-cms.org/en/blog |
 
-*** STATIC SITES GENERATORS
+** STATIC SITES GENERATORS
 
 |---------+------------------------------+----------------------------------------|
 | NAME    | URL                          | BLOG                                   |
@@ -55,20 +57,20 @@
 | Grav    | https://getgrav.org          | https://learn.getgrav.org              |
 | Sculpin | https://sculpin.io           | https://sculpin.io/documentation       |
 
-*** FLAT FILES CMS
+** FLAT FILES CMS
 
 | NAME    | URL                          | BLOG                                   |
 |---------+------------------------------+----------------------------------------|
 | Grav    | https://getgrav.org          | https://learn.getgrav.org              |
 
-*** BLOGS
+** BLOGS
 
 |-----------+------------------------+-----------------------------|
 | Name      | Url                    | Blog                        |
 |-----------+------------------------+-----------------------------|
 | Wordpress | https://wordpress.org/ | https://wordpress.org/news/ |
 
-*** MICRO BLOGGING
+** MICRO BLOGGING
 
 |-----------+------------------------+-----------------------------|
 | Name      | Url                    | Blog                        |
@@ -77,34 +79,39 @@
 | Medium    | http://medium.com      |                             |
 | Thumblr   | http://thumblr.com     |                             |
 
-*** COMMERCE 
+** COMMERCE 
 
 |---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
 | NAME          | URL                          | BLOG                                              | DEMO                                                   |
 |---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
 | Commercetools | https://commercetools.com    | https://commercetools.com/blog                    |                                                        |
-| Infopark      | https://infopark.com         | https://infopark.com/de/blo                       |                                                        |
+| Infopark      | https://infopark.com         | https://infopark.com/de/blog                      |                                                        |
 | Magento       | https://magento.com          | https://magento.com/blog                          |                                                        |
-| OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | Demo https://www.opencart.com/index.php?route=cms/demo |
+| OpenCart      | https://www.opencart.com     | https://www.opencart.com/index.php?route=cms/blog | https://www.opencart.com/index.php?route=cms/demo |
 | OroCommerce   | https://www.orocommerce.com  | https://www.orocommerce.com/blog                  |                                                        |
 | Pimcore       | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog         |                                                        |
 | Plentymarkets | https://www.plentymarkets.eu | https://www.plentymarkets.eu/blog                 |                                                        |
 | Prestashop    | https://www.prestashop.com   | https://www.prestashop.com/blog/fr                |                                                        |
 
-*** COMMERCE ADDONS
+** PRODUKT INFORMATION MANAGEMENT
 
-|--------+-----------------------+----------------------------+------|
-| NAME   | URL                   | BLOG                       | DEMO |
-|--------+-----------------------+----------------------------+------|
-| Adyn   | https://www.adyen.com | https://www.adyen.com/blog | -    |
-| Akeneo | http://www.akeneo.com | http://www.akeneo.com/blog | -    |
-|        |                       |                            |      |
-- Ezwid			| http://ecwid.com        | Blog https://www.ecwid.com
-- Iziflux		| http://iziflux.com      | Blog http://blog.iziflux.com
-- Wizishop		| https://www.wizishop.fr | Blog https://www.wizishop.fr/blog
+|---------+-----------------------+----------------------------+------|
+| NAME    | URL                   | BLOG                       | DEMO |
+|---------+-----------------------+----------------------------+------|
+| Akeneo  | http://www.akeneo.com | http://www.akeneo.com/blog | -    |
+
+** COMMERCE ADDONS
+
+|---------+-----------------------+----------------------------+------|
+| NAME    | URL                   | BLOG                       | DEMO |
+|---------+-----------------------+----------------------------+------|
+| Adyn    | https://www.adyen.com | https://www.adyen.com/blog | -    |
+| Ecwid   | http://ecwid.com      | -                          | -    |
+| Iziflux | http://iziflux.com    | http://blog.Iziflux.com    | -    |
+|         |                       |                            |      |
 
 
-**** COMMERCE IN DER  CLOUD
+** COMMERCE IN DER CLOUD
 - Bigcommerce		|
 - Changecommerce	|
 - Ecwid			|
@@ -117,8 +124,7 @@
 - Venda			|
 - Volusion		|
 
-*** ERP
-**** ENTERPRISE RESSOURCE PLANNING.
+** ENTERPRISE RESSOURCE PLANNING
 - Actindo		|
 - Compiere		|
 - Dolibarr		|
@@ -139,8 +145,8 @@
 - SAP Business One	|
 - Tryton		|
   
-*** CRM
-**** COSTUMER MANAGEMENT SYSTEME
+** COSTUMER MANAGEMENT SYSTEME
+     
 - Dolibarr	|
 - Orocrm	| https://www.orocrm.com                                                  | Blog https://www.orocrm.com/blog               | Demo  https://www.orocrm.com/orocrm-demo
 - Pipedrive	| https://pipedrive.com                                                   | Blog https://blog.pipedrive.com
@@ -148,12 +154,16 @@
 - Sugarcrm	|
 - vTiger	|
 
-*** MARKETING
-- Marketo	| http://marketo.com                                                      | Blog http://fr.blog.marketo.com
-- Criteo	| http://criteo.com                                                       | Blog http://www.criteo.com/blog
-- Mautic	|
+** MARKETING
 
-*** EMAIL MARKETING
+| NAME    | URL                | BLOG                       |
+|---------+--------------------+----------------------------|
+| Marketo | http://marketo.com | http://fr.blog.marketo.com |
+| Criteo  | http://criteo.com  |                            |
+| Mautic  |                    |                            |
+
+
+** EMAIL MARKETING
 - Phplist		|
 - SendGrid		|
 - MailChimp		|
@@ -168,54 +178,50 @@
 - Verticalresponse	|
 - Mailbeez		|
 
-*** LANDING PAGE
+** LANDING PAGE
 - Unbounce		| http://unbounce.com                                                     | Blog http://unbounce.com/blog
 
-*** ANALYTICS
+** ANALYTICS
 - Google Analytics	| https://www.google.com/analytics
 - Clicky		| https://clicky.com | Blog https://clicky.com/blog/
 - Hotjar		| https://www.hotjar.com/blog                                             | Blog https://www.hotjar.com/blog
 - Piwik			| https://piwik.org | Blog https://piwik.org/blog/
 
-*** PROJECT MANAGEMENT
+** PROJECT MANAGEMENT
 - daPulse		| http://daPulse.com                                                      | Blog https://blog.dapulse.com
 - Youtrack		| https://jetbrains.com/youtrack                                          | Blog https://blog.jetbrains.com/youtrack
 - Trello		|
 - Azendoo		|
 - Smartsheet		|
 
-*** SERVICES
-- Start Me		| https://start.me                                                        | Blog https://blog.start.me
 
-*** COLLABORATION
+** COLLABORATION
 - Slack			| http://slackhq.com
 
-*** SEO
+** SEO
 - Yourls		| http://yourls.org                                                       | Blog http://blog.yourls.org
 - Seo Panel		| http://seopanel.in                                                      | Blog http://blog.seopanel.in
 - Sistrix		| http://sistrix.de                                                       | Blog https://www.sistrix.de/news
 - Semrush		| http://semrush.com                                                      | Blog https://www.semrush.com/blog
 - Kissmetrics		| http://kissmetrics.com                                                  | Blog https://blog.kissmetrics.com
 
-*** SCRUM
+** SCRUM
 - Agilefant		| https://www.agilefant.com/blog
 
-*** AUTOMATISATION
+** AUTOMATISATION
 - Zapier		| https://zapier.com/blog
 
-*** OPTIMISATION
+** OPTIMISATION
 - Optimizely		| https://blog.optimizely.com
 
-*** SOCIAL NETWORKING
-- Paper.li		| http://blog.paper.li
-- Pocket		| https://getpocket.com/blog
-- Add to Any		| https://www.addtoany.com/blog
-- Scoopit		| http://www.scoop.it/content-marketing-resource-center
+** MONITORING
 
-*** MONITORING
-- Brandwatch		| https://www.brandwatch.com/blog
+| NAME       | URL                        | BLOG                            |
+|------------+----------------------------+---------------------------------|
+| Brandwatch | https://www.brandwatch.com | https://www.brandwatch.com/blog |
 
-*** SOCIAL MEDIA
+** SOCIAL MEDIA
+
 | NAME           | URL | BLOG |
 |----------------+-----+------|
 | Ŝcompler       |     |      |
@@ -238,9 +244,7 @@
 | Tweet Reach    |     |      |
 | Follower Wonk  |     |      |
 |                |     |      |
-
-*** FRAMEWORK
-
+** FRAMEWORK
 | NAME    | URL              | BLOG | GIT                       |
 |---------+------------------+------+---------------------------|
 | Zikula  | http://zikula.de |      | https://github.com/zikula |
@@ -249,14 +253,21 @@
 | Laravel |                  |      |                           |
 |         |                  |      |                           |
 
-*** CONTENT MARKETING
+** MOBILE APPLICATIONS
+
+| NAME     | URL                         | BLOG |
+|----------+-----------------------------+------|
+| Firebase | https://firebase.google.com |      |
+|          |                             |      |
+
+** CONTENT MARKETING
 
 | NAME     | URL                     | BLOG                         |
 |----------+-------------------------+------------------------------|
 | Desk Net | http://www.desk-net.com | http://www.desk-net.com/blog |
 |          |                         |                              |
 
-*** DIGITAL ASSESTS MANAGEMENT ( DAM )
+** DIGITAL ASSESTS MANAGEMENT 
 
 | NAME          | URL                           | BLOG                               |
 |---------------+-------------------------------+------------------------------------|
@@ -264,7 +275,7 @@
 | Resourcespace | https://www.resourcespace.com | https://www.resourcespace.com/feed |
 |               |                               |                                    |
 
-
+** Todo
 http://www.aha.io
 http://www.aha.io/blog
 https://www.aha.io/product/pricing
