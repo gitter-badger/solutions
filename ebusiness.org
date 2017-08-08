@@ -11,11 +11,10 @@
 
 ** ENTERPRISE CONTENT MANAGEMENT 
 
-| NAME                     | URL                          | BLOG                                      |
 |--------------------------+------------------------------+-------------------------------------------|
 | Adobe Experience Manager | https://goo.gl/pSZPB3        |                                           |
 | Alfresco One             | http://goo.gl/jbUxrq         |                                           |
-| Drupal                   | http://drupal,org            |                                           |
+| Drupal                   | http://drupal.org            |                                           |
 | Liferay                  | https://www.liferay.com      |                                           |
 | Mangolia                 | https://www.magnolia-cms.com | https://www.magnolia-cms.com/blogs.html   |
 | Pimcore                  | https://www.pimcore.org      | https://www.pimcore.org/en/resources/blog |
@@ -26,7 +25,6 @@
 
 ** CONTENT MANAGEMENT SYSTEME 
 
-|-------------+-----------------------------+------------------------------------|
 | NAME        | URL                         | BLOG                               |
 |-------------+-----------------------------+------------------------------------|
 | Joomla      | http://joomla.org           |                                    |
@@ -48,7 +46,6 @@
 
 ** STATIC SITES GENERATORS
 
-|---------+------------------------------+----------------------------------------|
 | NAME    | URL                          | BLOG                                   |
 |---------+------------------------------+----------------------------------------|
 | Hugo    | http://gohugo.io             | http://gohugo.io/overview/introduction |
@@ -65,14 +62,12 @@
 
 ** BLOGS
 
-|-----------+------------------------+-----------------------------|
 | Name      | Url                    | Blog                        |
 |-----------+------------------------+-----------------------------|
-| Wordpress | https://wordpress.org/ | https://wordpress.org/news/ |
+| Wordpress | https://wordpress.org/ | https://wordpress.org/news |
 
 ** MICRO BLOGGING
 
-|-----------+------------------------+-----------------------------|
 | Name      | Url                    | Blog                        |
 |-----------+------------------------+-----------------------------|
 | Blogger   | http://blogger.com     |                             |
@@ -81,7 +76,6 @@
 
 ** COMMERCE 
 
-|---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
 | NAME          | URL                          | BLOG                                              | DEMO                                                   |
 |---------------+------------------------------+---------------------------------------------------+--------------------------------------------------------|
 | Commercetools | https://commercetools.com    | https://commercetools.com/blog                    |                                                        |
@@ -108,7 +102,6 @@
 | Adyn    | https://www.adyen.com | https://www.adyen.com/blog | -    |
 | Ecwid   | http://ecwid.com      | -                          | -    |
 | Iziflux | http://iziflux.com    | http://blog.Iziflux.com    | -    |
-|         |                       |                            |      |
 
 
 ** COMMERCE IN DER CLOUD
@@ -243,29 +236,27 @@
 | Tweriod        |     |      |
 | Tweet Reach    |     |      |
 | Follower Wonk  |     |      |
-|                |     |      |
+
 ** FRAMEWORK
+
 | NAME    | URL              | BLOG | GIT                       |
 |---------+------------------+------+---------------------------|
 | Zikula  | http://zikula.de |      | https://github.com/zikula |
 | Django  |                  |      |                           |
 | Symfony |                  |      |                           |
 | Laravel |                  |      |                           |
-|         |                  |      |                           |
 
 ** MOBILE APPLICATIONS
 
-| NAME     | URL                         | BLOG |
-|----------+-----------------------------+------|
-| Firebase | https://firebase.google.com |      |
-|          |                             |      |
+| NAME     | URL                         | BLOG                             |
+|----------+-----------------------------+----------------------------------|
+| Firebase | https://firebase.google.com | https://firebase.google.com/docs |
 
 ** CONTENT MARKETING
 
 | NAME     | URL                     | BLOG                         |
 |----------+-------------------------+------------------------------|
 | Desk Net | http://www.desk-net.com | http://www.desk-net.com/blog |
-|          |                         |                              |
 
 ** DIGITAL ASSESTS MANAGEMENT 
 
@@ -273,7 +264,6 @@
 |---------------+-------------------------------+------------------------------------|
 | Woodwing      | https://www.woodwing.com      | https://www.woodwing.com/en/blog   |
 | Resourcespace | https://www.resourcespace.com | https://www.resourcespace.com/feed |
-|               |                               |                                    |
 
 ** Todo
 http://www.aha.io
